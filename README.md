@@ -11,6 +11,13 @@ A full-stack web application for viewing and filtering marketing campaign data. 
 
 ---
 
+## Live Links
+
+- **Frontend:** [https://campaign-analytics-dashboard-five.vercel.app/](https://campaign-analytics-dashboard-five.vercel.app/)
+- **Backend:** [https://campaign-analytics-dashboard.onrender.com/campaigns](https://campaign-analytics-dashboard.onrender.com/campaigns)
+
+---
+
 ## 🛠 Tech Stack
 
 - **Frontend:** Next.js, TailwindCSS
